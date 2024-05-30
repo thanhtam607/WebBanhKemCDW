@@ -1,0 +1,201 @@
+{
+  "header": {
+    "page_home": "Trang chủ",
+    "page_about_us": "Giới Thiệu",
+    "page_product": "Sản phẩm",
+    "page_contact": "Liên Hệ",
+    "login": "Đăng nhập",
+    "signin": "Đăng ký",
+    "logout": "Đăng xuất",
+    "profile": "Thông tin cá nhân"
+  },
+
+  "barner_home": {
+    "phrase1": "Trao bánh - Trao yêu thương",
+    "phrase2": "Nơi vị ngọt kết hợp với bình yên",
+    "enter_cake_name": "Nhập vào tên bánh",
+    "search_now": "Tìm kiếm ngày",
+    "banner_2_1": "Thăng hoa trong vị ngọt",
+    "banner_2_2": "cùng chúng tôi",
+    "banner_2_3": "Khám phá bộ sưu tập bánh kem đa dạng và phong phú của chúng tôi để làm cho mọi dịp đặc biệt hơn.",
+    "banner_3_1": "bánh mới",
+    "banner_3_2": "GIẢM GIÁ 20%",
+    "banner_3_3": "Bánh ngon",
+    "banner_3_4": "Giao hàng miễn phí",
+    "banner_3_5": "Thăng hoa trong ngọt ngào",
+    "banner_3_6": "Giảm giá 30$"
+  },
+
+  "support_home": {
+    "free_delivery": {
+      "title": "Giao hàng miễn phí",
+      "description": "Miễn phí giao hàng tại TPHCM"
+    },
+    "secure_payment": {
+      "title": "Thanh toán bảo mật",
+      "description": "Đảm bảo thanh toán bảo mật"
+    },
+    "return_support": {
+      "title": "Hỗ trợ trả lại",
+      "description": "Hỗ trợ đổi trả nếu không giống mẫu hoặc lỗi"
+    },
+    "support_24_7": {
+      "title": "Hỗ trợ 24/7",
+      "description": " Nhân viên tư vấn sẵn sàng hỗ trợ khách hàng"
+    }
+  },
+  "text": {
+    "product": "Sản phẩm",
+    "product_hot": "Sản phẩm bán chạy",
+    "add_cart": "Thêm",
+    "categories": "Thể Loại",
+    "outstanding_product": "Sẩn phẩm nổi bật"
+  },
+
+  "product_detail": {
+    "category": "Loại Bánh",
+    "add_cart": "Thêm vào giỏ hàng"
+  },
+
+  "login": {
+    "login": "Đăng nhập",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "forgot_password": "Quên mật khẩu?",
+    "signin": "Đăng ký",
+    "text_signin": "Bạn chưa có tài khoản?"
+  },
+
+  "cart": {
+    "product": "Sản phẩm",
+    "name": "Tên",
+    "price": "Đơn giá",
+    "quantity": "Số lượng",
+    "total": "Tổng tiền",
+    "handle": "Sự kiện",
+    "see_products": "Xem thêm sản phẩm",
+    "subtotal": "Thành tiền",
+    "total_payment": "Tổng thanh toán",
+    "order": "Đặt hàng"
+  },
+
+  "page": {
+    "cart": "Giỏ hàng",
+    "home": "Trang chủ",
+    "product": "Sản phẩm",
+    "product_detail": "Chi tiết sản phẩm"
+  },
+  "common": {
+    "add": "Thêm",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "decentralize": "Phân quyền",
+    "close": "Đóng",
+    "save": "Lưu",
+    "refresh": "Refresh",
+    "accept": "Chấp nhận",
+    "confirm": "Xác nhận",
+    "confirm-this-task": "Bạn có chắc chắn thực hiện tác vụ này?",
+    "fail-to-load-data": "Không thể tải về dữ liệu",
+    "unknown-error": "Có lỗi xảy ra",
+    "internal-server-error": "Lỗi kết nối",
+    "bad-request": "Yêu cầu không hợp lệ",
+    "forbiden-request": "Thông tin truyền vào không hợp lệ",
+    "fail-to-load-all-code": "Không thể tải về dữ liệu allcode",
+    "sum": "Tổng",
+    "date-range-invalid": "Khoảng thời gian không hợp lệ"
+  },
+
+  "menu": {
+    "system": {
+      "header": "Hệ thống",
+      "system-administrator": {
+        "header": "Quản trị hệ thống",
+        "user-manage": "Quản lý người sử dụng",
+        "product-manage": "Quản lý gói",
+        "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+      },
+      "system-parameter": {
+        "header": "Tham số hệ thống"
+      }
+    }
+  },
+  "system": {
+    "user-manage": {
+      "fail-to-load-fouser": "Không thể tải về danh sách người dùng",
+      "user-id": "Mã người sử dụng",
+      "usertype": "Loại người dùng",
+      "username": "Tên người dùng",
+      "fullname": "Tên đầy đủ",
+      "mobile": "Số điện thoại",
+      "email": "Email",
+      "status": "Trạng thái",
+      "add-user": "Thêm người dùng",
+      "edit-user": "Sửa thông tin người dùng",
+      "password": "Mật khẩu",
+      "retype-password": "Nhập lại mật khẩu",
+      "add-user-success": "Thêm người dùng thành công",
+      "edit-user-success": "Thay đổi thông tin người dùng thành công",
+      "add-user-fail": "Thêm người dùng thất bại",
+      "edit-user-fail": "Thay đổi thông tin người dùng thất bại",
+      "del-user-success": "Xóa người dùng thành công",
+      "del-user-fail": "Xóa người dùng thất bại",
+      "invalid-input": {
+        "username": "Quý khách vui lòng nhập tên người dùng",
+        "fullname": "Quý khách vui lòng nhập tên đầy đủ",
+        "password": "Quý khách vui lòng nhập mật khẩu"
+      },
+      "sure-delete-user": "Bạn có chắc chắn muốn xóa người dùng này?"
+    },
+    "product-manage": {
+      "fail-to-load-foprtype": "Không thể tải về danh sách gói",
+      "prid": "Mã gói",
+      "prname": "Tên gói",
+      "prtype": "Loại gói",
+      "status": "Trạng thái",
+      "description": "Diễn giải",
+      "effective-date": "Ngày hiệu lực",
+      "expiration-date": "Ngày hết hiệu lực",
+      "add-product": "Thêm gói",
+      "add-product-success": "Thêm gói thành công",
+      "add-product-fail": "Thêm gói thất bại",
+      "edit-product": "Sửa thông tin gói",
+      "package-decentralize": "Phân quyền chức năng",
+      "edit-product-success": "Thay đổi thông tin gói thành công",
+      "edit-product-fail": "Thay đổi thông tin gói thất bại",
+      "delete-product-success": "Xóa gói thành công",
+      "delete-product-fail": "Xóa gói thất bại",
+      "invalid-input": {
+        "prid": "Quý khách vui lòng nhập mã gói",
+        "prname": "Quý khách vui lòng nhập tên gói"
+      },
+      "fail-to-load-decentralize-info": "Không thể tải về thông tin phân quyền chức năng",
+      "save-decentralize-success": "Lưu phân quyền chức năng thành công",
+      "save-decentralize-fail": "Lưu phân quyền chức năng thất bại",
+      "sure-delete-package": "Bạn có chắc chắn muốn xóa gói này?"
+    },
+    "register-package-group-or-acc": {
+      "assign-service-package-to-customer": "Gán gói dịch vụ cho khách hàng",
+      "package-name": "Tên gói",
+      "assign-type": "Loại gán",
+      "cust-acc-group": "Nhóm KH/Tài khoản",
+      "effective-date": "Ngày hiệu lực",
+      "expiration-date": "Ngày hết hiệu lực",
+      "assign": "Gán",
+      "manage-assign-groups": "Quản lý gán nhóm",
+      "group-cust-acc-name": "Tên nhóm/tài khoản KH",
+      "del-assign": "Xóa gán",
+      "fail-to-load-manage-assign-groups-list": "Không thể tải về thông tin quản lý gán nhóm",
+      "invalid-selected": {
+        "currentfoProduct": "Gói đang chọn không hợp lệ",
+        "currentAssignType": "Loại gán không hợp lệ",
+        "currentFoUser": "Nhóm KH/Tài khoản không hợp lệ"
+      },
+      "assign-service-package-to-customer-success": "Gán gói dịch vụ cho khách hàng thành công",
+      "assign-service-package-to-customer-fail": "Gán gói dịch vụ cho khách hàng thất bại",
+      "remove-assign-success": "Bỏ gán gói dịch vụ cho khách hàng thành công",
+      "remove-assign-fail": "Bỏ gán gói dịch vụ cho khách hàng thất bại",
+      "sure-delete-assign": "Bạn có chắc chắn muốn bỏ gán gói dịch vụ cho khách hàng?"
+    }
+  }
+}

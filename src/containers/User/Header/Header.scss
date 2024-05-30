@@ -1,0 +1,7 @@
+// .flag có magin left right 10px .action red
+.flag {
+  margin: 0px 10px;
+  &.action {
+    color: #ffc107 !important;
+  }
+}
