@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WebBanhKemCDW/static/css/main.8c078a58.chunk.css",
+    "main.js": "/WebBanhKemCDW/static/js/main.45d0bd32.chunk.js",
+    "main.js.map": "/WebBanhKemCDW/static/js/main.45d0bd32.chunk.js.map",
+    "runtime-main.js": "/WebBanhKemCDW/static/js/runtime-main.504c4c01.js",
+    "runtime-main.js.map": "/WebBanhKemCDW/static/js/runtime-main.504c4c01.js.map",
+    "static/css/2.81ec1778.chunk.css": "/WebBanhKemCDW/static/css/2.81ec1778.chunk.css",
+    "static/js/2.f7ea198f.chunk.js": "/WebBanhKemCDW/static/js/2.f7ea198f.chunk.js",
+    "static/js/2.f7ea198f.chunk.js.map": "/WebBanhKemCDW/static/js/2.f7ea198f.chunk.js.map",
+    "index.html": "/WebBanhKemCDW/index.html",
+    "static/css/2.81ec1778.chunk.css.map": "/WebBanhKemCDW/static/css/2.81ec1778.chunk.css.map",
+    "static/css/main.8c078a58.chunk.css.map": "/WebBanhKemCDW/static/css/main.8c078a58.chunk.css.map",
+    "static/js/2.f7ea198f.chunk.js.LICENSE.txt": "/WebBanhKemCDW/static/js/2.f7ea198f.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/WebBanhKemCDW/static/media/fa-solid-900.d279d01b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.504c4c01.js",
+    "static/css/2.81ec1778.chunk.css",
+    "static/js/2.f7ea198f.chunk.js",
+    "static/css/main.8c078a58.chunk.css",
+    "static/js/main.45d0bd32.chunk.js"
+  ]
+}
